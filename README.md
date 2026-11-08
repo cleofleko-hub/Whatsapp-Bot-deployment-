@@ -5,4 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=62F700&background=6DFF0000&width=435&lines=Click+link+below+%F0%9F%91%87and+Activate+for+2+years+)](https://git.io/typing-svg)
 https://paystack.shop/pay/o-ub-ssh6f
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3E00F7&background=0029FF00&width=435&lines=Payment+is+done+once+every+2+years+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Fira+Code&weight=600&size=22&pause=1000&color=3E00F7&background=0029FF00&width=435&lines=Payment+is+done+once+every+2+years+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=F70000&background=00FF2B00&repeat=false&width=435&lines=when+done+with+activation+you'll+be+redirect+to+your+vps)](https://git.io/typing-svg)
