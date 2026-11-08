@@ -1,2 +1,3 @@
 # Whatsapp-Bot-deployment-
 🤖 Nova xmd Smart assistant for tech, tools &amp; APIs ⚙️ Web solutions &amp; automation Available 26/1 for your digital needs
+*Get API Credentials – Create a Meta Developer account, set up a WhatsApp Business App, and grab your Token and Phone Number ID. 2. Prepare the Code – Clone a bot template (Node.js or Python) and add your credentials to a .env file. 3. Deploy to Cloud – Push to GitHub, then use a platform like Render or Railway to host your webhook service. 4. Connect the Webhook – In Meta's dashboard, point the webhook URL to your live bot and subscribe to message events. Once verified, your bot goes live!*
